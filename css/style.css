@@ -7,6 +7,7 @@
 body{
 	margin: 0px; /* Often browsers have a 5px margin by deafult*/
 	font-family: sans-serif;
+	color: #0E0b16;
 }
 
 
@@ -19,14 +20,14 @@ section{
 }
 
 header{
-	background-color: #191716;
-	color: white; /* more readable on an orange background */
-	padding-top: 50px;
-	padding-bottom: 50px;
+	background-color: #0E0b16;
+	color: #A239CA; /* more readable on an orange background */
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 #header1{
-	background-color: #CACF85;
+	background-color: #0E0b16;
 	color: white; /* more readable on an orange background */
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -85,7 +86,11 @@ nav a:hover{
 }
 
 #cover{
-	width: 400px;
+	width: 350px;
+}
+
+#network{
+	width: 1000px;
 }
 
 #phone{
